@@ -11,7 +11,7 @@
 ## 🚀 How to Use
 
 1. **Set Up the Connection**  
-   Replace `'your ngrok link ip'` in the script with your `ngrok` URL or `localhost` IP if running locally.
+   Replace `'your ngrok link ip or ip or localhost` in the script with your `ngrok` URL or `localhost` IP if running locally.
 
 2. **Run the Server**  
    Start `server.py` in your terminal to establish the main server connection.
@@ -48,7 +48,7 @@ Ensure `ngrok` is properly set up and both `server.py` and `client.py` are corre
 
 <h1 align="center">GUI SOON:</h1>
 
-<p align="center" href="https://ibb.co/BLb5j1p"><img src="https://i.ibb.co/v1p6mtF/Xsbackdoor.png" alt="Xsbackdoor" border="0"></p>
+<p align="center" href="https://ibb.co/BLb5j1p"><img src="https://i.ibb.co/Q9L3n5g/Xsbackdoor.png" alt="Xskeylogger" border="0"></p>
 
 
 <h2>🛠️ Installation Steps:</h2>
