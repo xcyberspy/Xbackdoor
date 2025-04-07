@@ -6,6 +6,8 @@
 
 <p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="shields"></p>
 
+<h2>🔴 live practice :</h2>
+https://youtu.be/i4ldWQpKbDs
 
 
 ## 🚀 How to Use
